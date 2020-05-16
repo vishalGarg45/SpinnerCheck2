@@ -1,0 +1,2 @@
+rootProject.name='SpinnerCheck2'
+include ':app'
